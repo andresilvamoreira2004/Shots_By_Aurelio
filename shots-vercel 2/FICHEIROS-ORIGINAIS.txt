@@ -1,0 +1,19 @@
+Ficheiros referenciados pelo HTML original. Copiar para public/ com estes caminhos, ou substituir no painel. Alguns aparecem apenas em estilos antigos.
+
+imagens/assinatura.png
+imagens/foto-capa.jpg
+imagens/logotipo.png
+imagens/retrato.png
+imagens/servico-automovel.jpg
+imagens/servico-edicao.jpg
+imagens/servico-eventos.jpg
+imagens/servico.jpg
+imagens/trabalho-1.jpg
+imagens/trabalho-2.jpg
+imagens/trabalho-3.jpg
+imagens/trabalho-4.jpg
+imagens/trabalho-5.jpg
+imagens/trabalho-6.jpg
+videos/
+videos/DcZTGLoBaJZ.mp4
+videos/intro-com-som.mp4

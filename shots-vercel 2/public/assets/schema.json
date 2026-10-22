@@ -1,0 +1,1463 @@
+[
+  {
+    "id": "f1",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Explore",
+    "value": "Explore",
+    "key": "field_0"
+  },
+  {
+    "id": "f2",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Serviços",
+    "value": "Serviços",
+    "key": "field_1"
+  },
+  {
+    "id": "f3",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "O que faz o Shots by Aurélio.",
+    "value": "O que faz o Shots by Aurélio.",
+    "key": "field_2"
+  },
+  {
+    "id": "f4",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Trabalhos",
+    "value": "Trabalhos",
+    "key": "field_3"
+  },
+  {
+    "id": "f5",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Seleção curada em destaque.",
+    "value": "Seleção curada em destaque.",
+    "key": "field_4"
+  },
+  {
+    "id": "f6",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Portfólio",
+    "value": "Portfólio ",
+    "key": "field_5"
+  },
+  {
+    "id": "f7",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "completo",
+    "value": "completo",
+    "key": "field_6"
+  },
+  {
+    "id": "f8",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Arquivo total de projetos, com filtros.",
+    "value": "Arquivo total de projetos, com filtros.",
+    "key": "field_7"
+  },
+  {
+    "id": "f9",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Sobre",
+    "value": "Sobre ",
+    "key": "field_8"
+  },
+  {
+    "id": "f10",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "mim",
+    "value": "mim",
+    "key": "field_9"
+  },
+  {
+    "id": "f11",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Quem está por detrás da lente.",
+    "value": "Quem está por detrás da lente.",
+    "key": "field_10"
+  },
+  {
+    "id": "f12",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Contactos",
+    "value": "Contactos",
+    "key": "field_11"
+  },
+  {
+    "id": "f13",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Vamos falar sobre o teu projeto.",
+    "value": "Vamos falar sobre o teu projeto.",
+    "key": "field_12"
+  },
+  {
+    "id": "f14",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Pedir orçamento",
+    "value": "Pedir orçamento ",
+    "key": "field_13"
+  },
+  {
+    "id": "f15",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "↗",
+    "value": "↗",
+    "key": "field_14"
+  },
+  {
+    "id": "f16",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "SHOTS BY AURÉLIO",
+    "value": "SHOTS BY AURÉLIO",
+    "key": "field_15"
+  },
+  {
+    "id": "f17",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "PORTO — PORTUGAL",
+    "value": "PORTO — PORTUGAL",
+    "key": "field_16"
+  },
+  {
+    "id": "f18",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "VISUAL STORYTELLER",
+    "value": "VISUAL STORYTELLER",
+    "key": "field_17"
+  },
+  {
+    "id": "f19",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "FILM",
+    "value": "FILM",
+    "key": "field_18"
+  },
+  {
+    "id": "f20",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "PHOTO",
+    "value": "PHOTO",
+    "key": "field_19"
+  },
+  {
+    "id": "f19",
+    "child": 4,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "EDIT",
+    "value": "EDIT",
+    "key": "field_20"
+  },
+  {
+    "id": "f21",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Imagem com intenção — da captação à edição.",
+    "value": "Imagem com intenção — da captação à edição.",
+    "key": "field_21"
+  },
+  {
+    "id": "f22",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Instagram ↗",
+    "value": "Instagram ↗",
+    "key": "field_22"
+  },
+  {
+    "id": "f23",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Open for selected projects",
+    "value": "Open for selected projects",
+    "key": "field_23"
+  },
+  {
+    "id": "f24",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Porto",
+    "value": "Porto ",
+    "key": "field_24"
+  },
+  {
+    "id": "f24",
+    "child": 1,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "&",
+    "value": "&",
+    "key": "field_25"
+  },
+  {
+    "id": "f24",
+    "child": 2,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Norte · Film · Photo · Edit",
+    "value": " Norte · Film · Photo · Edit",
+    "key": "field_26"
+  },
+  {
+    "id": "f25",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "Film · Photo · Edit",
+    "value": "Film · Photo · Edit",
+    "key": "field_27"
+  },
+  {
+    "id": "f26",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "Porto — Portugal",
+    "value": "Porto — Portugal",
+    "key": "field_28"
+  },
+  {
+    "id": "f27",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "Visual storyteller",
+    "value": "Visual storyteller",
+    "key": "field_29"
+  },
+  {
+    "id": "f28",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "SHOTS BY",
+    "value": "SHOTS BY",
+    "key": "field_30"
+  },
+  {
+    "id": "f29",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "AURELIO",
+    "value": "AURELIO",
+    "key": "field_31"
+  },
+  {
+    "id": "f30",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "Tu trazes a ideia.",
+    "value": "Tu trazes a ideia.",
+    "key": "field_32"
+  },
+  {
+    "id": "f30",
+    "child": 2,
+    "kind": "text",
+    "group": "Início",
+    "label": "Eu dou-lhe a forma.",
+    "value": "Eu dou-lhe a forma.",
+    "key": "field_33"
+  },
+  {
+    "id": "f31",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "Ver trabalhos",
+    "value": "Ver trabalhos ",
+    "key": "field_34"
+  },
+  {
+    "id": "f32",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "↘",
+    "value": "↘",
+    "key": "field_35"
+  },
+  {
+    "id": "f33",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "Pedir orçamento",
+    "value": "Pedir orçamento ",
+    "key": "field_36"
+  },
+  {
+    "id": "f34",
+    "child": 0,
+    "kind": "text",
+    "group": "Início",
+    "label": "↗",
+    "value": "↗",
+    "key": "field_37"
+  },
+  {
+    "id": "f35",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Film",
+    "value": "Film",
+    "key": "field_38"
+  },
+  {
+    "id": "f36",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_39"
+  },
+  {
+    "id": "f37",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Photography",
+    "value": "Photography",
+    "key": "field_40"
+  },
+  {
+    "id": "f38",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_41"
+  },
+  {
+    "id": "f39",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Editing",
+    "value": "Editing",
+    "key": "field_42"
+  },
+  {
+    "id": "f40",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_43"
+  },
+  {
+    "id": "f41",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Storytelling",
+    "value": "Storytelling",
+    "key": "field_44"
+  },
+  {
+    "id": "f42",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_45"
+  },
+  {
+    "id": "f43",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Porto · Portugal",
+    "value": "Porto · Portugal",
+    "key": "field_46"
+  },
+  {
+    "id": "f44",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_47"
+  },
+  {
+    "id": "f45",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Film",
+    "value": "Film",
+    "key": "field_48"
+  },
+  {
+    "id": "f46",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_49"
+  },
+  {
+    "id": "f47",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Photography",
+    "value": "Photography",
+    "key": "field_50"
+  },
+  {
+    "id": "f48",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_51"
+  },
+  {
+    "id": "f49",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Editing",
+    "value": "Editing",
+    "key": "field_52"
+  },
+  {
+    "id": "f50",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_53"
+  },
+  {
+    "id": "f51",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Storytelling",
+    "value": "Storytelling",
+    "key": "field_54"
+  },
+  {
+    "id": "f52",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_55"
+  },
+  {
+    "id": "f53",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Porto · Portugal",
+    "value": "Porto · Portugal",
+    "key": "field_56"
+  },
+  {
+    "id": "f54",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_57"
+  },
+  {
+    "id": "f55",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Film",
+    "value": "Film",
+    "key": "field_58"
+  },
+  {
+    "id": "f56",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_59"
+  },
+  {
+    "id": "f57",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Photography",
+    "value": "Photography",
+    "key": "field_60"
+  },
+  {
+    "id": "f58",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_61"
+  },
+  {
+    "id": "f59",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Editing",
+    "value": "Editing",
+    "key": "field_62"
+  },
+  {
+    "id": "f60",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_63"
+  },
+  {
+    "id": "f61",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Storytelling",
+    "value": "Storytelling",
+    "key": "field_64"
+  },
+  {
+    "id": "f62",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_65"
+  },
+  {
+    "id": "f63",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Porto · Portugal",
+    "value": "Porto · Portugal",
+    "key": "field_66"
+  },
+  {
+    "id": "f64",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "✦",
+    "value": "✦",
+    "key": "field_67"
+  },
+  {
+    "id": "f65",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Fotógrafo / Videógrafo",
+    "value": "Fotógrafo / Videógrafo",
+    "key": "field_68"
+  },
+  {
+    "id": "f66",
+    "child": 0,
+    "kind": "text",
+    "group": "Menu e identidade",
+    "label": "Porto & Norte",
+    "value": "Porto & Norte",
+    "key": "field_69"
+  },
+  {
+    "id": "f67",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "O que faço",
+    "value": "O que faço",
+    "key": "field_70"
+  },
+  {
+    "id": "f68",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "SERVIÇOS",
+    "value": "SERVIÇOS",
+    "key": "field_71"
+  },
+  {
+    "id": "f69",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Imagem com intenção — da captação à edição, cada formato é pensad",
+    "value": "Imagem com intenção — da captação à edição, cada formato é pensado para funcionar no ecrã onde vai viver.",
+    "key": "field_72"
+  },
+  {
+    "id": "f70",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Automóvel",
+    "value": "Automóvel",
+    "key": "field_73"
+  },
+  {
+    "id": "f71",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Eventos de carros e stands automóveis — imagem que faz justiça ao",
+    "value": "Eventos de carros e stands automóveis — imagem que faz justiça ao detalhe.",
+    "key": "field_74"
+  },
+  {
+    "id": "f72",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "AUTOMÓVEL",
+    "value": "AUTOMÓVEL",
+    "key": "field_75"
+  },
+  {
+    "id": "f73",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Eventos",
+    "value": "Eventos",
+    "key": "field_76"
+  },
+  {
+    "id": "f74",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Cobertura de eventos corporativos, lançamentos e encontros — sem ",
+    "value": "Cobertura de eventos corporativos, lançamentos e encontros — sem cerimónias religiosas.",
+    "key": "field_77"
+  },
+  {
+    "id": "f75",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "EVENTOS",
+    "value": "EVENTOS",
+    "key": "field_78"
+  },
+  {
+    "id": "f76",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Edição",
+    "value": "Edição",
+    "key": "field_79"
+  },
+  {
+    "id": "f77",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "Cor, ritmo e som tratados para conteúdo digital, incluindo format",
+    "value": "Cor, ritmo e som tratados para conteúdo digital, incluindo formatos verticais.",
+    "key": "field_80"
+  },
+  {
+    "id": "f78",
+    "child": 0,
+    "kind": "text",
+    "group": "Serviços",
+    "label": "EDIÇÃO",
+    "value": "EDIÇÃO",
+    "key": "field_81"
+  },
+  {
+    "id": "f79",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "Portfólio",
+    "value": "Portfólio",
+    "key": "field_82"
+  },
+  {
+    "id": "f80",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "ALGUNS TRABALHOS",
+    "value": "ALGUNS TRABALHOS",
+    "key": "field_83"
+  },
+  {
+    "id": "f81",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "Quatro projetos em destaque. Faz scroll, arrasta ou desliza para ",
+    "value": "Projetos em destaque. Faz scroll, arrasta ou desliza para entrar no trabalho.",
+    "key": "field_84"
+  },
+  {
+    "id": "f82",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "Viste a seleção. Queres ver o resto?",
+    "value": "Viste a seleção. Queres ver o resto?",
+    "key": "field_85"
+  },
+  {
+    "id": "f83",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "Abre o portfólio completo para explorar todos os projetos com cal",
+    "value": "Abre o portfólio completo para explorar todos os projetos com calma e por categoria.",
+    "key": "field_86"
+  },
+  {
+    "id": "f84",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "Ver portfólio completo",
+    "value": "Ver portfólio completo",
+    "key": "field_87"
+  },
+  {
+    "id": "f85",
+    "child": 0,
+    "kind": "text",
+    "group": "Trabalhos",
+    "label": "↗",
+    "value": "↗",
+    "key": "field_88"
+  },
+  {
+    "id": "f86",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Quem sou",
+    "value": "Quem sou",
+    "key": "field_89"
+  },
+  {
+    "id": "f87",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "SOBRE MIM",
+    "value": "SOBRE MIM",
+    "key": "field_90"
+  },
+  {
+    "id": "f88",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Olá, sou o",
+    "value": "Olá, sou o ",
+    "key": "field_91"
+  },
+  {
+    "id": "f89",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Ricardo",
+    "value": "Ricardo",
+    "key": "field_92"
+  },
+  {
+    "id": "f88",
+    "child": 2,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "— mais conhecido como",
+    "value": " — mais conhecido como ",
+    "key": "field_93"
+  },
+  {
+    "id": "f90",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Aurélio",
+    "value": "Aurélio",
+    "key": "field_94"
+  },
+  {
+    "id": "f88",
+    "child": 4,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": ".",
+    "value": ".",
+    "key": "field_95"
+  },
+  {
+    "id": "f91",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Sempre fui apaixonado pelo mundo do audiovisual. Movido por essa ",
+    "value": "Sempre fui apaixonado pelo mundo do audiovisual. Movido por essa paixão, decidi transformar a criatividade em profissão, trabalhando como videógrafo e editor.",
+    "key": "field_96"
+  },
+  {
+    "id": "f92",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Acredito que cada projeto tem uma história para contar. O meu tra",
+    "value": "Acredito que cada projeto tem uma história para contar. O meu trabalho é transformar as ",
+    "key": "field_97"
+  },
+  {
+    "id": "f93",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "tuas",
+    "value": "tuas",
+    "key": "field_98"
+  },
+  {
+    "id": "f92",
+    "child": 2,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "ideias em conteúdos com identidade e dinamismo.",
+    "value": " ideias em conteúdos com identidade e dinamismo.",
+    "key": "field_99"
+  },
+  {
+    "id": "f94",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "“",
+    "value": "“",
+    "key": "field_100"
+  },
+  {
+    "id": "f95",
+    "child": 1,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Tu tens a história.",
+    "value": "Tu tens a história.",
+    "key": "field_101"
+  },
+  {
+    "id": "f95",
+    "child": 3,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Eu ajudo-te a contá-la.",
+    "value": "Eu ajudo-te a contá-la.",
+    "key": "field_102"
+  },
+  {
+    "id": "f96",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Se tens uma ideia, um projeto ou uma marca a que queres dar vida ",
+    "value": "Se tens uma ideia, um projeto ou uma marca a que queres dar vida através do vídeo — ",
+    "key": "field_103"
+  },
+  {
+    "id": "f97",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "fala comigo",
+    "value": "fala comigo",
+    "key": "field_104"
+  },
+  {
+    "id": "f96",
+    "child": 2,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": ".",
+    "value": ".",
+    "key": "field_105"
+  },
+  {
+    "id": "f98",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "150+",
+    "value": "150+",
+    "key": "field_106"
+  },
+  {
+    "id": "f99",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Projetos",
+    "value": "Projetos",
+    "key": "field_107"
+  },
+  {
+    "id": "f100",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "4",
+    "value": "4",
+    "key": "field_108"
+  },
+  {
+    "id": "f101",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Áreas",
+    "value": "Áreas",
+    "key": "field_109"
+  },
+  {
+    "id": "f102",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "48h",
+    "value": "48h",
+    "key": "field_110"
+  },
+  {
+    "id": "f103",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Entrega média",
+    "value": "Entrega média",
+    "key": "field_111"
+  },
+  {
+    "id": "f104",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Ricardo “Aurélio”",
+    "value": "Ricardo “Aurélio”",
+    "key": "field_112"
+  },
+  {
+    "id": "f105",
+    "child": 0,
+    "kind": "text",
+    "group": "Sobre mim",
+    "label": "Visual storyteller",
+    "value": "Visual storyteller",
+    "key": "field_113"
+  },
+  {
+    "id": "f106",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Tens uma ideia?",
+    "value": "Tens uma ideia?",
+    "key": "field_114"
+  },
+  {
+    "id": "f107",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "VAMOS",
+    "value": "VAMOS",
+    "key": "field_115"
+  },
+  {
+    "id": "f108",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "GRAVAR?",
+    "value": "GRAVAR?",
+    "key": "field_116"
+  },
+  {
+    "id": "f109",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Brief / orçamento",
+    "value": "Brief / orçamento",
+    "key": "field_117"
+  },
+  {
+    "id": "f110",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Conta-me o que tens em mente — marca, espaço, carro, evento ou si",
+    "value": "Conta-me o que tens em mente — marca, espaço, carro, evento ou simplesmente uma ideia que ainda precisa de ganhar forma.",
+    "key": "field_118"
+  },
+  {
+    "id": "f111",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Pedir orçamento",
+    "value": "Pedir orçamento",
+    "key": "field_119"
+  },
+  {
+    "id": "f112",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "↗",
+    "value": "↗",
+    "key": "field_120"
+  },
+  {
+    "id": "f113",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Falar pelo Instagram",
+    "value": "Falar pelo Instagram",
+    "key": "field_121"
+  },
+  {
+    "id": "f114",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "↗",
+    "value": "↗",
+    "key": "field_122"
+  },
+  {
+    "id": "f115",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Resposta simples, rápida e alinhada com o teu projeto.",
+    "value": "Resposta simples, rápida e alinhada com o teu projeto.",
+    "key": "field_123"
+  },
+  {
+    "id": "f116",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Porto & Norte · Portugal",
+    "value": "Porto & Norte · Portugal",
+    "key": "field_124"
+  },
+  {
+    "id": "f117",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "aurelio.shots@gmail.com",
+    "value": "aurelio.shots@gmail.com",
+    "key": "field_125"
+  },
+  {
+    "id": "f118",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "shots_by_aurelio",
+    "value": "shots_by_aurelio",
+    "key": "field_126"
+  },
+  {
+    "id": "f119",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Instagram",
+    "value": "Instagram",
+    "key": "field_127"
+  },
+  {
+    "id": "f120",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "TikTok",
+    "value": "TikTok",
+    "key": "field_128"
+  },
+  {
+    "id": "f121",
+    "child": 0,
+    "kind": "text",
+    "group": "Contactos",
+    "label": "Email",
+    "value": "Email",
+    "key": "field_129"
+  },
+  {
+    "id": "f122",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Pedido de orçamento",
+    "value": "Pedido de orçamento",
+    "key": "field_130"
+  },
+  {
+    "id": "f123",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "VAMOS",
+    "value": "VAMOS",
+    "key": "field_131"
+  },
+  {
+    "id": "f123",
+    "child": 2,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "FALAR",
+    "value": "FALAR",
+    "key": "field_132"
+  },
+  {
+    "id": "f124",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "?",
+    "value": "?",
+    "key": "field_133"
+  },
+  {
+    "id": "f125",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Dá-me o essencial do projeto e eu abro já o pedido no WhatsApp, d",
+    "value": "Dá-me o essencial do projeto e eu abro já o pedido no WhatsApp, de forma rápida e direta.",
+    "key": "field_134"
+  },
+  {
+    "id": "f126",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Escolhe o tipo de projeto",
+    "value": "Escolhe o tipo de projeto",
+    "key": "field_135"
+  },
+  {
+    "id": "f127",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Brief",
+    "value": "Brief",
+    "key": "field_136"
+  },
+  {
+    "id": "f128",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Preenche apenas o necessário. Quanto mais contexto deres, melhor ",
+    "value": "Preenche apenas o necessário. Quanto mais contexto deres, melhor o orçamento.",
+    "key": "field_137"
+  },
+  {
+    "id": "f129",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "1 passo",
+    "value": "1 passo",
+    "key": "field_138"
+  },
+  {
+    "id": "f130",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Nome *",
+    "value": "Nome *",
+    "key": "field_139"
+  },
+  {
+    "id": "f131",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Email *",
+    "value": "Email *",
+    "key": "field_140"
+  },
+  {
+    "id": "f132",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Zona *",
+    "value": "Zona *",
+    "key": "field_141"
+  },
+  {
+    "id": "f133",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Serviço desejado *",
+    "value": "Serviço desejado *",
+    "key": "field_142"
+  },
+  {
+    "id": "f134",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Tipo de sessão *",
+    "value": "Tipo de sessão *",
+    "key": "field_143"
+  },
+  {
+    "id": "f135",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Mensagem *",
+    "value": "Mensagem *",
+    "key": "field_144"
+  },
+  {
+    "id": "f136",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Concordo em ser contactado sobre este pedido. *",
+    "value": "Concordo em ser contactado sobre este pedido. *",
+    "key": "field_145"
+  },
+  {
+    "id": "f137",
+    "child": 0,
+    "kind": "text",
+    "group": "Formulário",
+    "label": "Ao clicar, o teu pedido abre pronto a enviar no WhatsApp.",
+    "value": "Ao clicar, o teu pedido abre pronto a enviar no WhatsApp.",
+    "key": "field_146"
+  },
+  {
+    "id": "f138",
+    "kind": "media",
+    "attr": "src",
+    "group": "Menu e identidade",
+    "label": "imagens/logotipo.png",
+    "value": "imagens/logotipo.png",
+    "video": false,
+    "key": "field_147"
+  },
+  {
+    "id": "f139",
+    "kind": "media",
+    "attr": "data-src",
+    "group": "Início",
+    "label": "Vídeo de fundo (URL MP4)",
+    "value": "videos/intro-com-som.mp4",
+    "video": true,
+    "key": "field_148"
+  },
+  {
+    "id": "f140",
+    "kind": "media",
+    "attr": "src",
+    "group": "Início",
+    "label": "imagens/assinatura.png",
+    "value": "imagens/assinatura.png",
+    "video": false,
+    "key": "field_149"
+  },
+  {
+    "id": "f141",
+    "kind": "media",
+    "attr": "src",
+    "group": "Serviços",
+    "label": "imagens/servico-automovel.jpg",
+    "value": "imagens/servico-automovel.jpg",
+    "video": false,
+    "key": "field_150"
+  },
+  {
+    "id": "f142",
+    "kind": "media",
+    "attr": "src",
+    "group": "Serviços",
+    "label": "imagens/servico-eventos.jpg",
+    "value": "imagens/servico-eventos.jpg",
+    "video": false,
+    "key": "field_151"
+  },
+  {
+    "id": "f143",
+    "kind": "media",
+    "attr": "src",
+    "group": "Serviços",
+    "label": "imagens/servico-edicao.jpg",
+    "value": "imagens/servico-edicao.jpg",
+    "video": false,
+    "key": "field_152"
+  },
+  {
+    "id": "f144",
+    "kind": "media",
+    "attr": "src",
+    "group": "Sobre mim",
+    "label": "imagens/assinatura.png",
+    "value": "imagens/assinatura.png",
+    "video": false,
+    "key": "field_153"
+  },
+  {
+    "id": "f145",
+    "kind": "background",
+    "group": "Menu e identidade",
+    "label": "Fotografia de fundo",
+    "value": "imagens/foto-capa.jpg",
+    "key": "field_154"
+  },
+  {
+    "id": "f146",
+    "kind": "background",
+    "group": "Sobre mim",
+    "label": "Retrato",
+    "value": "imagens/retrato.png",
+    "key": "field_155"
+  },
+  {
+    "id": "f147",
+    "kind": "background",
+    "group": "Contactos",
+    "label": "Fotografia de fundo",
+    "value": "imagens/trabalho-4.jpg",
+    "key": "field_156"
+  },
+  {
+    "id": "f22",
+    "kind": "link",
+    "attr": "href",
+    "group": "Contactos",
+    "label": "Ligação: Instagram ↗",
+    "value": "https://www.instagram.com/shots_by_aurelio",
+    "key": "field_157"
+  },
+  {
+    "id": "f148",
+    "kind": "link",
+    "attr": "href",
+    "group": "Contactos",
+    "label": "Ligação: Falar pelo Instagram\n          ↗",
+    "value": "https://www.instagram.com/shots_by_aurelio",
+    "key": "field_158"
+  },
+  {
+    "id": "f119",
+    "kind": "link",
+    "attr": "href",
+    "group": "Contactos",
+    "label": "Ligação: Instagram",
+    "value": "https://www.instagram.com/shots_by_aurelio",
+    "key": "field_159"
+  },
+  {
+    "id": "f121",
+    "kind": "link",
+    "attr": "href",
+    "group": "Contactos",
+    "label": "Ligação: Email",
+    "value": "mailto:aurelio.shots@gmail.com",
+    "key": "field_160"
+  },
+  {
+    "id": "whatsapp",
+    "kind": "phone",
+    "group": "Contactos",
+    "label": "WhatsApp (indicativo + número, só algarismos)",
+    "value": "351962254223",
+    "key": "field_161"
+  }
+]
