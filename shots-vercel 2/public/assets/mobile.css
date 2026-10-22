@@ -1,5 +1,5 @@
 /* =====================================================================
-   SHOTS BY AURELIO â€” MOBILE v3 (compacto, limpo, sem sobreposiÃ§Ãµes)
+   SHOTS BY AURELIO â€” MOBILE v4 (compacto, limpo, sem sobreposiÃ§Ãµes)
    Carregar DEPOIS de todo o CSS do index.html. Desktop (>900px) intacto.
    ===================================================================== */
 html{-webkit-text-size-adjust:100%;overflow-x:clip;}
@@ -188,4 +188,53 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
 @media(hover:none){
   #servicos .svc:hover .svc-photo,#servicos .svc:hover .svc-copy{transform:none!important;}
   .hero-link:hover,.btn:hover,.contact-film-primary:hover,.contact-film-secondary:hover{transform:none!important;}
+}
+
+/* =====================================================================
+   v4 â€” correÃ§Ãµes finais (mobile â‰¤600px)
+   ===================================================================== */
+@media(max-width:600px){
+
+  /* --- HERO: o 3D (translateZ) ampliava o conteÃºdo e cortava as letras/botÃµes --- */
+  .hero.hero-film{perspective:none!important;}
+  .hero-content,.hero-title span,.hero-title em,.hero-bottomline,.hero-topline{
+    transform:none!important;}
+  .hero-content{left:18px!important;right:18px!important;width:auto!important;}
+  .hero-bottomline,.hero-actions{width:100%!important;max-width:100%!important;}
+
+  /* Assinatura vermelha de volta (pequena, sobre o canto do "AURELIO") */
+  .hero-signature{display:block!important;position:absolute!important;
+    width:clamp(84px,27vw,120px)!important;left:auto!important;right:2%!important;top:34%!important;
+    transform:rotate(-8deg)!important;z-index:4;pointer-events:none;}
+
+  /* Som no topo (nÃ£o colide com os botÃµes) e botÃ£o de orÃ§amento mais discreto */
+  .hero-sound{top:calc(72px + env(safe-area-inset-top))!important;bottom:auto!important;right:18px!important;
+    width:36px!important;height:36px!important;}
+  .quote-float{width:42px!important;height:42px!important;right:8px!important;
+    bottom:calc(16px + env(safe-area-inset-bottom))!important;}
+  .quote-float svg{width:30px!important;height:30px!important;}
+
+  /* --- SERVIÃ‡OS: cartÃ£o vertical (foto em cima, texto em baixo), com cor da marca --- */
+  #servicos .svc-stack{width:auto!important;max-width:none!important;margin:18px 18px 0!important;gap:14px!important;}
+  #servicos .svc{display:flex!important;flex-direction:column!important;border-radius:8px!important;
+    border:1px solid rgba(255,255,255,.09)!important;border-top:3px solid #7E97B8!important;}
+  #servicos .svc:nth-child(even){border-top-color:#BD3443!important;}
+  #servicos .svc-photo,#servicos .svc:nth-child(even) .svc-photo{order:-1;width:100%!important;height:150px!important;
+    min-height:0!important;grid-column:auto!important;grid-row:auto!important;}
+  #servicos .svc-copy,#servicos .svc:nth-child(even) .svc-copy{padding:16px 16px 18px!important;}
+  #servicos .svc h3{font-size:22px!important;margin-bottom:6px!important;}
+  #servicos .svc p{font-size:13.5px!important;line-height:1.55!important;}
+  /* sem foto carregada -> esconde o bloco vazio */
+  #servicos .svc:has(.svc-photo img[style*="none"]) .svc-photo{display:none!important;}
+
+  /* --- SOBRE: assinatura vermelha de volta, sem 3D --- */
+  #sobre,#contacto.contact-film{perspective:none!important;}
+  #sobre .sobre-copy,.about-visual,#contacto .contact-film-title,.contact-film h2{transform:none!important;}
+  .about-visual{position:relative!important;}
+  .about-signature{display:block!important;position:absolute!important;left:auto!important;right:4%!important;
+    bottom:7%!important;width:40%!important;height:auto!important;z-index:3;transform:rotate(-5deg)!important;}
+  .about-visual .foto-retrato{max-height:none!important;aspect-ratio:4/5!important;}
+
+  /* Vermelho de marca: ponto das etiquetas e sublinhado dos tÃ­tulos */
+  h2.display::after{background:linear-gradient(90deg,#7E97B8 70%,#BD3443 70%)!important;width:44px!important;}
 }
