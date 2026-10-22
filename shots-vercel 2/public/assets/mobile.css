@@ -1,5 +1,5 @@
 /* =====================================================================
-   SHOTS BY AURELIO â€” MOBILE v2 (compacto, limpo, sem sobreposiÃ§Ãµes)
+   SHOTS BY AURELIO â€” MOBILE v3 (compacto, limpo, sem sobreposiÃ§Ãµes)
    Carregar DEPOIS de todo o CSS do index.html. Desktop (>900px) intacto.
    ===================================================================== */
 html{-webkit-text-size-adjust:100%;overflow-x:clip;}
@@ -52,7 +52,8 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .hero-bottomline{margin-top:14px!important;padding-top:12px!important;gap:12px!important;flex-direction:column!important;align-items:stretch!important;}
   .hero .hero-caption{font-size:10.5px!important;line-height:1.45!important;letter-spacing:.06em!important;}
   .hero-actions{display:grid!important;grid-template-columns:1fr 1fr!important;gap:8px!important;width:100%!important;}
-  .hero-link{min-width:0!important;min-height:44px;padding:10px 12px!important;font-size:9.5px!important;gap:6px!important;}
+  .hero-link{min-width:0!important;width:100%;min-height:40px;padding:8px 10px!important;font-size:9px!important;gap:0!important;justify-content:center!important;text-align:center;}
+  .hero-actions{overflow:hidden;}
   .hero-sound{bottom:calc(14px + env(safe-area-inset-bottom))!important;right:18px!important;padding:8px!important;width:40px;height:40px;justify-content:center;}
   .hero-sound-label{display:none!important;}
 
@@ -70,30 +71,30 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .meta.section-label{font-size:9px!important;margin-bottom:10px!important;}
   .section-intro,#servicos .services-note,#trabalhos>.section-intro{display:none!important;}
 
-  /* ---- ServiÃ§os ---- */
-  #servicos{padding:38px 0 34px!important;}
-  #servicos::before,#servicos .svc-depth-meta{display:none!important;}
+  /* ---- ServiÃ§os: cartÃµes compactos ---- */
+  #servicos{padding:34px 0 28px!important;}
+  #servicos::before,#servicos .svc-depth-meta,#servicos .svc-placeholder,#servicos .svc::before,#servicos .svc::after,
+  #servicos .svc-photo::before,#servicos .svc-photo::after,#servicos .svc h3::after,#servicos .svc-index{display:none!important;}
   #servicos>.section-label,#servicos>h2.display{margin-left:18px!important;margin-right:18px!important;}
-  #servicos .svc-stack{margin-top:22px!important;}
-  #servicos .svc{display:flex!important;flex-direction:column!important;min-height:0!important;}
-  #servicos .svc-copy,#servicos .svc:nth-child(even) .svc-copy{padding:18px 18px 14px!important;grid-column:auto!important;transform:none!important;}
-  #servicos .svc-index{font-size:9px!important;margin-bottom:6px!important;}
-  #servicos .svc h3{font-size:22px!important;margin-bottom:6px!important;}
-  #servicos .svc h3::after{display:none!important;}
-  #servicos .svc p{font-size:13px!important;line-height:1.55!important;max-width:none!important;}
-  #servicos .svc-photo,#servicos .svc:nth-child(even) .svc-photo{position:relative!important;inset:auto!important;width:100%!important;height:150px!important;transform:none!important;filter:none!important;}
-  #servicos .svc-photo img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;top:0!important;transform:none!important;}
-  #servicos .svc::after{display:none!important;}
+  #servicos .svc-stack{margin:16px 18px 0!important;display:grid!important;gap:10px!important;border:0!important;perspective:none!important;}
+  #servicos .svc{display:grid!important;grid-template-columns:minmax(0,1fr) 104px!important;min-height:0!important;height:auto!important;
+    background:#0f1012!important;border:1px solid rgba(255,255,255,.08)!important;border-radius:6px;overflow:hidden!important;}
+  #servicos .svc-copy,#servicos .svc:nth-child(even) .svc-copy{grid-column:1!important;grid-row:1!important;padding:14px!important;transform:none!important;align-self:center;}
+  #servicos .svc-photo,#servicos .svc:nth-child(even) .svc-photo{grid-column:2!important;grid-row:1!important;position:relative!important;inset:auto!important;
+    width:100%!important;height:100%!important;min-height:92px;clip-path:none!important;transform:none!important;filter:none!important;opacity:1!important;background:#1a2029;}
+  #servicos .svc-photo img{position:absolute!important;inset:0!important;width:100%!important;height:100%!important;top:0!important;transform:none!important;object-fit:cover!important;}
+  #servicos .svc h3{font-size:19px!important;margin:0 0 4px!important;}
+  #servicos .svc p{font-size:12px!important;line-height:1.45!important;max-width:none!important;}
 
   /* ---- Trabalhos (cartÃµes 3D simplificados) ---- */
   #trabalhos.spatial-work-section{padding-top:34px!important;}
   #trabalhos>.section-label,#trabalhos>h2.display{margin-left:18px!important;margin-right:18px!important;}
   #trabalhos>h2.display{font-size:clamp(28px,8.5vw,38px)!important;}
-  .spatial-showcase{height:200vh!important;margin-top:10px!important;}
-  .spatial-sticky{height:100svh!important;min-height:480px!important;}
+  .spatial-showcase{height:190vh!important;margin-top:0!important;}
+  .spatial-sticky{height:calc(100svh - 70px)!important;top:70px!important;min-height:420px!important;}
   .spatial-ghost,.spatial-axis,.spatial-hint,.spatial-steps,.spatial-exit,
   .spatial-card-top,.spatial-peek-arrow,.spatial-now small,.spatial-card-copy>span{display:none!important;}
-  .spatial-card{width:80vw!important;height:min(56svh,460px)!important;}
+  .spatial-card{width:82vw!important;height:min(54svh,440px)!important;}
   .spatial-card-copy{left:14px!important;bottom:14px!important;}
   .spatial-card-copy strong{font-size:clamp(26px,8vw,34px)!important;}
   .spatial-card-link{top:auto!important;bottom:16px!important;right:14px!important;font-size:8.5px!important;}
@@ -158,6 +159,13 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .f-row input,.f-row select,.f-row textarea{font-size:16px!important;min-height:46px!important;padding:10px 12px!important;}
   .f-row textarea{min-height:90px!important;}
   .form-submit{min-height:50px!important;}
+}
+
+/* Setas â†— â†˜ viram emoji no iOS: escondidas em mobile */
+@media(max-width:600px){
+  .hero-link span,.menu-overlay .cta span,.contact-film-primary span:last-child,
+  .contact-film-secondary span:last-child,.spatial-outro-cta b{display:none!important;}
+  .menu-overlay .cta,.contact-film-primary,.contact-film-secondary,.spatial-outro-cta{justify-content:center!important;}
 }
 
 /* ================= EcrÃ£s muito pequenos ================= */
