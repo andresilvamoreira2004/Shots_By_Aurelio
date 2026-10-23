@@ -1,11 +1,11 @@
 /* =====================================================================
-   SHOTS BY AURELIO â€” MOBILE v4 (compacto, limpo, sem sobreposiÃ§Ãµes)
+   SHOTS BY AURELIO Ã¢â‚¬â€ MOBILE v4 (compacto, limpo, sem sobreposiÃƒÂ§ÃƒÂµes)
    Carregar DEPOIS de todo o CSS do index.html. Desktop (>900px) intacto.
    ===================================================================== */
 html{-webkit-text-size-adjust:100%;overflow-x:clip;}
 body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
 
-/* ================= TABLET (â‰¤900px) ================= */
+/* ================= TABLET (Ã¢â€°Â¤900px) ================= */
 @media(max-width:900px){
   .foto-retrato,#sobre .foto-retrato{margin-top:0!important;}
   .menu-stage,.menu-stage-clean{display:none!important;}
@@ -17,7 +17,7 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   #sobre .sobre-intro,#sobre .sobre-quote{max-width:none!important;}
 }
 
-/* ================= TELEMÃ“VEL (â‰¤600px) ================= */
+/* ================= TELEMÃƒâ€œVEL (Ã¢â€°Â¤600px) ================= */
 @media(max-width:600px){
   :root{--page-pad:18px;}
 
@@ -30,7 +30,7 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .burger.open span:nth-child(1){transform:translateY(6.5px) rotate(45deg)!important;}
   .burger.open span:nth-child(3){transform:translateY(-6.5px) rotate(-45deg)!important;}
 
-  /* ---- Menu: sÃ³ links, limpos ---- */
+  /* ---- Menu: sÃƒÂ³ links, limpos ---- */
   .menu-overlay{height:100dvh!important;overflow-y:auto!important;overscroll-behavior:contain;
     padding:calc(70px + env(safe-area-inset-top)) 18px calc(24px + env(safe-area-inset-bottom))!important;}
   .menu-main{gap:14px!important;}
@@ -42,7 +42,7 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .menu-overlay .cta{width:100%;justify-content:space-between;min-height:48px;font-size:12px!important;}
   .menu-foot{flex-direction:column!important;gap:4px!important;font-size:9px!important;margin-top:14px!important;padding-top:12px!important;}
 
-  /* ---- Hero: sÃ³ o essencial ---- */
+  /* ---- Hero: sÃƒÂ³ o essencial ---- */
   .hero.hero-film{height:100svh!important;min-height:520px!important;}
   .hero-media{inset:0!important;border:0!important;}
   .hero-topline,.hero-eyebrow,.hero-signature,.hero-scroll{display:none!important;}
@@ -57,7 +57,7 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .hero-sound{bottom:calc(14px + env(safe-area-inset-bottom))!important;right:18px!important;padding:8px!important;width:40px;height:40px;justify-content:center;}
   .hero-sound-label{display:none!important;}
 
-  /* BotÃ£o flutuante discreto */
+  /* BotÃƒÂ£o flutuante discreto */
   .quote-float{width:44px!important;height:44px!important;right:10px!important;padding:6px!important;
     bottom:calc(72px + env(safe-area-inset-bottom))!important;}
   .quote-float svg{width:32px!important;height:32px!important;}
@@ -65,13 +65,13 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .creative-strip{height:38px!important;}
   .creative-strip-group span{font-size:9px!important;padding:0 14px!important;}
 
-  /* ---- SecÃ§Ãµes: menos espaÃ§o, tÃ­tulos mais pequenos ---- */
+  /* ---- SecÃƒÂ§ÃƒÂµes: menos espaÃƒÂ§o, tÃƒÂ­tulos mais pequenos ---- */
   section:not(.hero){padding-left:18px!important;padding-right:18px!important;}
   h2.display{font-size:clamp(28px,8.5vw,38px)!important;padding-bottom:14px!important;}
   .meta.section-label{font-size:9px!important;margin-bottom:10px!important;}
   .section-intro,#servicos .services-note,#trabalhos>.section-intro{display:none!important;}
 
-  /* ---- ServiÃ§os: cartÃµes compactos ---- */
+  /* ---- ServiÃƒÂ§os: cartÃƒÂµes compactos ---- */
   #servicos{padding:34px 0 28px!important;}
   #servicos::before,#servicos .svc-depth-meta,#servicos .svc-placeholder,#servicos .svc::before,#servicos .svc::after,
   #servicos .svc-photo::before,#servicos .svc-photo::after,#servicos .svc h3::after,#servicos .svc-index{display:none!important;}
@@ -86,7 +86,7 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   #servicos .svc h3{font-size:19px!important;margin:0 0 4px!important;}
   #servicos .svc p{font-size:12px!important;line-height:1.45!important;max-width:none!important;}
 
-  /* ---- Trabalhos (cartÃµes 3D simplificados) ---- */
+  /* ---- Trabalhos (cartÃƒÂµes 3D simplificados) ---- */
   #trabalhos.spatial-work-section{padding-top:34px!important;}
   #trabalhos>.section-label,#trabalhos>h2.display{margin-left:18px!important;margin-right:18px!important;}
   #trabalhos>h2.display{font-size:clamp(28px,8.5vw,38px)!important;}
@@ -141,7 +141,7 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   footer .socials{gap:14px!important;}
   footer .socials a{font-size:9px!important;}
 
-  /* ---- FormulÃ¡rio ---- */
+  /* ---- FormulÃƒÂ¡rio ---- */
   .form-overlay{height:100dvh!important;overflow-y:auto!important;overscroll-behavior:contain;
     padding:calc(60px + env(safe-area-inset-top)) 12px calc(24px + env(safe-area-inset-bottom))!important;}
   .form-shell{grid-template-columns:1fr!important;gap:12px!important;}
@@ -161,20 +161,20 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
   .form-submit{min-height:50px!important;}
 }
 
-/* Setas â†— â†˜ viram emoji no iOS: escondidas em mobile */
+/* Setas Ã¢â€ â€” Ã¢â€ Ëœ viram emoji no iOS: escondidas em mobile */
 @media(max-width:600px){
   .hero-link span,.menu-overlay .cta span,.contact-film-primary span:last-child,
   .contact-film-secondary span:last-child,.spatial-outro-cta b{display:none!important;}
   .menu-overlay .cta,.contact-film-primary,.contact-film-secondary,.spatial-outro-cta{justify-content:center!important;}
 }
 
-/* ================= EcrÃ£s muito pequenos ================= */
+/* ================= EcrÃƒÂ£s muito pequenos ================= */
 @media(max-width:380px){
   .hero-title{font-size:clamp(36px,12.5vw,48px)!important;}
   .hero-link{font-size:9px!important;padding:10px 6px!important;}
 }
 
-/* ================= Landscape / ecrÃ£s baixos ================= */
+/* ================= Landscape / ecrÃƒÂ£s baixos ================= */
 @media(max-height:520px) and (orientation:landscape){
   .hero.hero-film{height:auto!important;min-height:100svh!important;}
   .hero-topline,.hero-eyebrow,.hero-scroll,.hero-signature{display:none!important;}
@@ -191,11 +191,11 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
 }
 
 /* =====================================================================
-   v4 â€” correÃ§Ãµes finais (mobile â‰¤600px)
+   v4 Ã¢â‚¬â€ correÃƒÂ§ÃƒÂµes finais (mobile Ã¢â€°Â¤600px)
    ===================================================================== */
 @media(max-width:600px){
 
-  /* --- HERO: o 3D (translateZ) ampliava o conteÃºdo e cortava as letras/botÃµes --- */
+  /* --- HERO: o 3D (translateZ) ampliava o conteÃƒÂºdo e cortava as letras/botÃƒÂµes --- */
   .hero.hero-film{perspective:none!important;}
   .hero-content,.hero-title span,.hero-title em,.hero-bottomline,.hero-topline{
     transform:none!important;}
@@ -207,14 +207,14 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
     width:clamp(84px,27vw,120px)!important;left:auto!important;right:2%!important;top:34%!important;
     transform:rotate(-8deg)!important;z-index:4;pointer-events:none;}
 
-  /* Som no topo (nÃ£o colide com os botÃµes) e botÃ£o de orÃ§amento mais discreto */
+  /* Som no topo (nÃƒÂ£o colide com os botÃƒÂµes) e botÃƒÂ£o de orÃƒÂ§amento mais discreto */
   .hero-sound{top:calc(72px + env(safe-area-inset-top))!important;bottom:auto!important;right:18px!important;
     width:36px!important;height:36px!important;}
   .quote-float{width:42px!important;height:42px!important;right:8px!important;
     bottom:calc(16px + env(safe-area-inset-bottom))!important;}
   .quote-float svg{width:30px!important;height:30px!important;}
 
-  /* --- SERVIÃ‡OS: cartÃ£o vertical (foto em cima, texto em baixo), com cor da marca --- */
+  /* --- SERVIÃƒâ€¡OS: cartÃƒÂ£o vertical (foto em cima, texto em baixo), com cor da marca --- */
   #servicos .svc-stack{width:auto!important;max-width:none!important;margin:18px 18px 0!important;gap:14px!important;}
   #servicos .svc{display:flex!important;flex-direction:column!important;border-radius:8px!important;
     border:1px solid rgba(255,255,255,.09)!important;border-top:3px solid #7E97B8!important;}
@@ -235,6 +235,54 @@ body{overflow-x:clip;-webkit-tap-highlight-color:transparent;}
     bottom:7%!important;width:40%!important;height:auto!important;z-index:3;transform:rotate(-5deg)!important;}
   .about-visual .foto-retrato{max-height:none!important;aspect-ratio:4/5!important;}
 
-  /* Vermelho de marca: ponto das etiquetas e sublinhado dos tÃ­tulos */
+  /* Vermelho de marca: ponto das etiquetas e sublinhado dos tÃƒÂ­tulos */
   h2.display::after{background:linear-gradient(90deg,#7E97B8 70%,#BD3443 70%)!important;width:44px!important;}
+}
+/* V5: shared mobile navigation and portfolio. Home content stays unchanged. */
+@media (max-width:900px){
+  .menu-overlay{height:100vh!important;height:100dvh!important;overflow-y:auto!important;overflow-x:hidden!important;overscroll-behavior:contain;padding:calc(96px + env(safe-area-inset-top)) 20px calc(24px + env(safe-area-inset-bottom))!important;}
+  .menu-shell,.menu-shell-v16{display:block!important;min-height:0!important;transform:none!important;}
+  .menu-stage,.menu-stage-clean,.menu-panel,.menu-kicker{display:none!important;}
+  .menu-overlay .menu-main{width:100%!important;max-width:560px!important;margin-inline:auto!important;gap:16px!important;}
+  .menu-overlay nav.menu-nav-v16{width:100%!important;gap:8px!important;}
+  .menu-overlay a.link{display:grid!important;grid-template-columns:24px minmax(0,1fr)!important;grid-template-areas:'idx title'!important;align-items:center!important;gap:12px!important;min-height:58px!important;padding:14px!important;transform:none!important;}
+  .menu-overlay a.link strong{font-size:clamp(20px,5.4vw,30px)!important;line-height:1.08!important;letter-spacing:-.035em!important;min-width:0;overflow-wrap:normal;}
+  .menu-overlay a.link strong em{display:inline!important;}
+  .menu-overlay a.link small,.menu-overlay a.link::after{display:none!important;}
+  .menu-overlay .menu-link-index{align-self:center!important;margin:0!important;padding:0!important;font-size:9px!important;transform:none!important;}
+  .menu-overlay .cta{width:100%!important;min-height:48px!important;justify-content:center!important;font-size:11px!important;}
+  .menu-overlay .cta span{display:none!important;}
+  .menu-overlay .menu-foot{position:static!important;max-width:560px!important;margin:18px auto 0!important;padding-top:14px!important;display:flex!important;flex-direction:column!important;align-items:flex-start!important;gap:8px!important;font-size:9px!important;line-height:1.5!important;}
+  #portfolio-full{padding:120px 24px 56px!important;min-width:0!important;}
+  #portfolio-full .portfolio-head-copy{min-width:0!important;width:100%!important;}
+  #portfolio-full .portfolio-head-compact h2.display{font-size:clamp(30px,8.6vw,72px)!important;line-height:1!important;letter-spacing:-.055em!important;max-width:100%!important;}
+  #portfolio-full .portfolio-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;}
+  #portfolio-full .portfolio-filterbar{position:sticky!important;top:96px!important;}
+  #portfolio-full .portfolio-filters{flex-wrap:wrap!important;overflow:visible!important;gap:8px!important;}
+  #portfolio-full .filter-btn{min-height:44px!important;padding:10px 13px!important;}
+}
+@media (max-width:600px){
+  .menu-overlay{padding:calc(82px + env(safe-area-inset-top)) 18px calc(24px + env(safe-area-inset-bottom))!important;}
+  #portfolio-full{padding:calc(92px + env(safe-area-inset-top)) 18px 44px!important;}
+  #portfolio-full::before{display:none!important;}
+  #portfolio-full .back-link{display:inline-flex;align-items:center;min-height:44px;margin-bottom:12px!important;font-size:10px!important;}
+  #portfolio-full .portfolio-head-compact{gap:16px!important;padding-bottom:18px!important;}
+  #portfolio-full .portfolio-head-compact h2.display{font-size:clamp(28px,8.6vw,52px)!important;margin:10px 0 12px!important;padding-bottom:16px!important;}
+  #portfolio-full .portfolio-lead{font-size:13px!important;line-height:1.6!important;}
+  #portfolio-full .portfolio-head-meta{flex-wrap:wrap!important;gap:10px 16px!important;line-height:1.5!important;}
+  #portfolio-full .portfolio-filterbar{top:calc(64px + env(safe-area-inset-top))!important;padding:12px 0!important;margin-bottom:14px!important;}
+  #portfolio-full .filter-btn{font-size:9px!important;letter-spacing:.06em!important;}
+  #portfolio-full .portfolio-grid{grid-template-columns:minmax(0,1fr)!important;gap:16px!important;margin-top:0!important;}
+  #portfolio-full .portfolio-grid .work-card{aspect-ratio:4/3!important;transform:none!important;border-radius:6px!important;}
+  #portfolio-full .portfolio-grid .reel-card{aspect-ratio:4/5!important;}
+  #portfolio-full .work-card .tag{top:12px!important;left:12px!important;font-size:9px!important;max-width:calc(100% - 24px);}
+  #portfolio-full .work-card .card-copy{bottom:0!important;left:0!important;right:0!important;padding:52px 16px 16px!important;background:linear-gradient(transparent,rgba(0,0,0,.85))!important;}
+  #portfolio-full .card-copy strong{font-size:23px!important;line-height:1.1!important;overflow-wrap:anywhere;}
+  #portfolio-full .card-copy small,#portfolio-full .card-copy span{font-size:10px!important;line-height:1.5!important;}
+  body:has(#portfolio-full) .reel-cinema{width:calc(100% - 24px)!important;max-width:460px!important;max-height:calc(100dvh - 32px)!important;overflow-y:auto!important;background:#080808!important;}
+  body:has(#portfolio-full) .reel-toolbar{position:sticky;top:0;z-index:8;background:#080808;padding:10px!important;gap:8px!important;}
+  body:has(#portfolio-full) .reel-close{min-width:44px;min-height:44px;}
+  body:has(#portfolio-full) .reel-player{aspect-ratio:auto!important;max-height:calc(100dvh - 160px)!important;overflow:auto!important;}
+  body:has(#portfolio-full) .reel-player video,body:has(#portfolio-full) .reel-player img{width:100%!important;height:auto!important;max-height:calc(100dvh - 160px)!important;object-fit:contain!important;}
+  body:has(#portfolio-full) .reel-player iframe{height:calc(100dvh - 160px)!important;min-height:0!important;}
 }
